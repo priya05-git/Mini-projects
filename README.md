@@ -22,3 +22,29 @@ Enter your guess (letters only).
 Guess correctly to reveal letters; miss, and the hangman gets closer to completion.
 
 The round ends when you solve the word or run out of tries.
+
+
+Tic-Tac-Toe in Python 🕹️
+A simple, interactive Tic-Tac-Toe game for two players—play right in your terminal! This project introduces Python fundamentals including dictionaries, functions, loops, and basic input validation, making it perfect for beginners.
+
+✨ Features
+Two-player turn-based gameplay: Play as X or O and take turns marking cells.
+
+Clear board visualization: See the board after every move.
+
+Input validation: Prevents overwriting spaces or choosing invalid positions.
+
+Win/tie detection: Announces the winner or declares a tie at the end of the game.
+
+🎮 How to Play
+Run the program in a Python environment (see below).
+
+X always starts the game, followed by O.
+
+On each turn, enter a space identifier like top-l, mid-m, or low-r.
+
+The game checks for a win after every move.
+
+If all spaces fill without a winner, the game ends in a tie.
+
+
